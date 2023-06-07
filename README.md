@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tech stack
 
-Angular14, NGRX, RXJS, Material UI
+Angular, NGRX, RXJS, Material UI
 
 ## Deployment  
 
