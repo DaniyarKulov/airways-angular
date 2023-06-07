@@ -2,9 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
-## Deploy
+## Authors
 
-https://6473d9356d456f062d11ed22--cute-gaufre-3c3aae.netlify.app/
+- [@DmitryTereshchenko](https://github.com/DmitryTereshchenko)
+- [@marypershai](https://github.com/marypershai)
+- [@DaniyarKulov](https://github.com/DaniyarKulov)
+
+## Tech stack
+
+Angular14, NGRX, RXJS, Material UI
+
+## Deployment  
+
+[Airways](https://6473d9356d456f062d11ed22--cute-gaufre-3c3aae.netlify.app/)
 
 ## Development server
 
