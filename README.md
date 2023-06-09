@@ -14,19 +14,14 @@ Angular, NGRX, RXJS, Material UI, Reactive Form, Guards
 
 ## Deployment  
 
-[Airways](https://6473d9356d456f062d11ed22--cute-gaufre-3c3aae.netlify.app/)
+[Youtube]((https://6483019684a5680c6d691eb8--zingy-arithmetic-1290d4.netlify.app/))
 
 <details>
   <summary><h2>Screenshots</h2></summary>  
-  
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/bf8e0de8-0da1-4276-b7c4-413b686dc3fe)
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/75a4a9e4-3944-48e8-9759-f738cfe40235)
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/2a349ad1-b5c9-419a-aa2d-d84d08e5efb8)
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/0b52f87d-ea57-4eb9-80d5-39e857925e1a)
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7dcfcdb4-968f-48f9-8b4f-32d1bd3474e2)
- ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/fd7ea541-2d33-4421-8afa-1586c5ef5069)
-
-</details>
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/b778818b-6831-4a5a-8f3e-ba6d99c3608d)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7f600a36-3b3a-4417-9302-957f6741ae01)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/f6e81130-2517-4abe-ab78-beccad11e417)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7f73f116-506b-4a0a-b2a6-fa44ae4032d4)
 
 ## Development server
 
