@@ -14,7 +14,7 @@ Angular, NGRX, RXJS, Material UI, Reactive Form, Guards
 
 ## Deployment  
 
-[Youtube]((https://6483019684a5680c6d691eb8--zingy-arithmetic-1290d4.netlify.app/))
+[Youtube](https://6483019684a5680c6d691eb8--zingy-arithmetic-1290d4.netlify.app/)
 
 <details>
   <summary><h2>Screenshots</h2></summary>  
