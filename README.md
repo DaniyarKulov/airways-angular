@@ -23,9 +23,6 @@ Angular, NGRX, RXJS, Material UI, Reactive Form, Guards
 ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/f6e81130-2517-4abe-ab78-beccad11e417)
 ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7f73f116-506b-4a0a-b2a6-fa44ae4032d4)
   
-  
-  
-</details>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
