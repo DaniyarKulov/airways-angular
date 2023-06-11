@@ -14,7 +14,7 @@ Angular, NGRX, RXJS, Material UI, Reactive Form, Guards
 
 ## Deployment  
 
-[Youtube](https://6473d9356d456f062d11ed22--cute-gaufre-3c3aae.netlify.app/)
+[Airways](https://6473d9356d456f062d11ed22--cute-gaufre-3c3aae.netlify.app/)
 
 <details>
   <summary><h2>Screenshots</h2></summary>  
