@@ -18,14 +18,17 @@ Angular, NGRX, RXJS, Material UI, Reactive Form, Guards
 
 <details>
   <summary><h2>Screenshots</h2></summary>  
-![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/b778818b-6831-4a5a-8f3e-ba6d99c3608d)
-![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7f600a36-3b3a-4417-9302-957f6741ae01)
-![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/f6e81130-2517-4abe-ab78-beccad11e417)
-![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/7f73f116-506b-4a0a-b2a6-fa44ae4032d4)
   
   ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/bbf5605d-6ba6-4b52-9ef7-f9cc4ee65fd9)
+  ![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/f339fcd0-c5fb-486e-a01c-468d334a04bd)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/acfa21f3-a139-4a91-bc56-f39215f77b75)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/d0d2efbd-3089-4c25-b50c-ebe10fd44045)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/b7df2843-10ea-445a-8444-5519541f98c0)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/6ecaf492-f441-45b5-b587-0230be5f34fe)
+![image](https://github.com/DaniyarKulov/airways-angular/assets/91828656/3037613f-4145-4103-951d-df76dcb6000f)
 
   </ details>
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
